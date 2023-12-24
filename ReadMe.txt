@@ -1,4 +1,4 @@
-16: 332: 503 PROGRAMMING FINANCE
+ECE 503 PROGRAMMING FINANCE
 Account Management System, Fall 2023
 
 #README: How to Run the Account Management System
